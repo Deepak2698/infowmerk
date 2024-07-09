@@ -6,3 +6,16 @@
   display: flex;
   
 }
+
+.icon{
+  margin: 10px;
+  
+}
+
+.marg{
+  margin: 10px;
+}
+
+.margin {
+  margin: 0 50px 0 50px;
+}
